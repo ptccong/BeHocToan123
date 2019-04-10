@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Lonbe_numberB">4</string>
+    <string name="Lonbe_numberA">3</string>
+    <string name="equalsign">=</string>
+    <string name="lesssign"><![CDATA[<]]></string>
+    <string name="greatersign"><![CDATA[>]]></string>
+    <string name="btn_Next">Tiếp theo</string>
+    <string name="TinhNham_numberA">1</string>
+    <string name="TinhNham_numberB">2</string>
+    <string name="DapAnA">1</string>
+    <string name="DapAnB">2</string>
+    <string name="DapAnC">3</string>
+    <string name="DapAnD">4</string>
+    <string name="TinhNham_Sign">+</string>
+    <string name="DiemSo">0</string>
+    <string name="Cau">Câu 1</string>
+    <string name="TinhNham_numberC">3</string>
+    <string name="Logic1stText">Bạn Toàn có</string>
+    <string name="Logic_numberA" >1 viên bi,</string>
+    <string name="Logic2ndText">bạn Toàn thắng</string>
+    <string name="Logic_numberB">2 viên bi.</string>
+    <string name="Logic3rdText">Hỏi bạn Toàn có mấy viên bi?</string>
+    <string name="LogicHoiKQ">= ?</string>
+    <string name="Logic_SignA">+</string>
+    <string name="Logic_SignB">-</string>
+    <string name="Logic_KQA">= 1</string>
+    <string name="Logic_KQB">= 1</string>
+    <string name="LogicText">Bạn Toàn có 6 viên bi, thắng 2 viên bị. Hỏi bạn Toàn có mấy viên bi?</string>
+    <string name="About">Thông tin ứng dụng</string>
+    <string name="AboutUs">AboutUs</string>
+    <string name="QuayLai">Quay lại</string>
+    <string name="XepHang">Xếp Hạng</string>
+    <string name="btn_Xephang" >Xếp Hạng</string>
+</resources>
